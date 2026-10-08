@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^5.2.1"
+  },
+  "name": "ejercicio-ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "miIndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
